@@ -1,0 +1,20 @@
+
+# Blocks
+tile.powerConverter.name=Конвертер енергії
+
+# Items
+item.baseUpgrade.name=Основа поліпшення
+item.powerConverterUpgrade.EU.name=§3Модуль EU
+item.powerConverterUpgrade.RF.name=§4Модуль RF
+
+# Tooltips
+tooltip.upgrade.pc.storageMult=§7Збільшує кількість зберігаємої %s%s енергії§7 у §3%s§7 разів
+tooltip.upgrade.pc.outputMult=§7Збільшує швидкість виходу %s%s енергії§7 у §3%s§7 разів
+tooltip.convert.rf=Конвертувати в RF
+tooltip.convert.eu=Конвертувати в EU
+tooltip.output=Вихід: %s
+tooltip.powerConverter.description=§7Конвертує §3EU енергію§7 в §4RF енергію§7, і навпаки §8(§31EU§8 = §3%sRF§8)
+tooltip.powerConverter.storageEU=§7Сховище: §3%s §7EU
+tooltip.powerConverter.storageRF=§7Сховище: §3%s §7RF
+tooltip.powerConverter.outputEU=§7Вихід: §3%s §7EU/t
+tooltip.powerConverter.outputRF=§7Вихід: §3%s §7RF/t

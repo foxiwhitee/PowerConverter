@@ -1,0 +1,21 @@
+itemGroup.POWER_CONVERTER_TAB=Power Converter
+
+# Blocks
+tile.powerConverter.name=Power Converter
+
+# Items
+item.baseUpgrade.name=Basis for upgrade
+item.powerConverterUpgrade.EU.name=§3Module EU
+item.powerConverterUpgrade.RF.name=§4Module RF
+
+# Tooltips
+tooltip.upgrade.pc.storageMult=§7Increases the amount of %s%s energy§7 stored by §3%s§7 times
+tooltip.upgrade.pc.outputMult=§7Increases the rate of %s%s energy§7 output by §3%s§7 times
+tooltip.convert.rf=Convert to RF
+tooltip.convert.eu=Convert to EU
+tooltip.output=Output: %s
+tooltip.powerConverter.description=§7Converts §3EU energy§7 to §4RF energy§7 and vice versa §8(§31EU§8 = §3%sRF§8)
+tooltip.powerConverter.storageEU=§7Capacity: §3%s §7EU
+tooltip.powerConverter.storageRF=§7Capacity: §3%s §7RF
+tooltip.powerConverter.outputEU=§7Output: §3%s §7EU/t
+tooltip.powerConverter.outputRF=§7Output: §3%s §7RF/t

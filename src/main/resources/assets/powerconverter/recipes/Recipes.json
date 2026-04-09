@@ -1,0 +1,32 @@
+{
+  "crafts": [
+    {
+      "type": "workbenchShaped",
+      "output": "<powerconverter:powerConverter>",
+      "inputs": ["<minecraft:diamond_block>", "<ore:circuitAdvanced>", "<minecraft:diamond_block>",
+        "<powerconverter:powerConverterUpgrade>", "<IC2:blockMachine>", "<powerconverter:powerConverterUpgrade.1>",
+        "<minecraft:diamond_block>", "<IC2:itemBatChargeLamaCrystal>", "<minecraft:diamond_block>"]
+    },
+    {
+      "type": "workbenchShaped",
+      "output": "<powerconverter:baseUpgrade>",
+      "inputs": ["<IC2:itemPartCarbonPlate>", "<IC2:itemCasing.5>", "<IC2:itemPartCarbonPlate>",
+        "<IC2:itemCasing.5>", "<ore:circuitAdvanced>", "<IC2:itemCasing.5>",
+        "<IC2:itemPartCarbonPlate>", "<IC2:itemCasing.5>", "<IC2:itemPartCarbonPlate>"]
+    },
+    {
+      "type": "workbenchShaped",
+      "output": "<powerconverter:powerConverterUpgrade>",
+      "inputs": ["<IC2:itemPartCarbonPlate>", "<IC2:itemPartCircuitAdv>", "<IC2:itemPartCarbonPlate>",
+        "<IC2:itemPartCircuitAdv>", "<powerconverter:baseUpgrade>", "<IC2:itemPartCircuitAdv>",
+        "<IC2:itemPartCarbonPlate>", "<IC2:itemPartCircuitAdv>", "<IC2:itemPartCarbonPlate>"]
+    },
+    {
+      "type": "workbenchShaped",
+      "output": "<powerconverter:powerConverterUpgrade.1>",
+      "inputs": ["<IC2:itemPartCarbonPlate>", "<ThermalExpansion:material.1>", "<IC2:itemPartCarbonPlate>",
+        "<ThermalExpansion:material.1>", "<powerconverter:baseUpgrade>", "<ThermalExpansion:material.1>",
+        "<IC2:itemPartCarbonPlate>", "<ThermalExpansion:material.1>", "<IC2:itemPartCarbonPlate>"]
+    }
+  ]
+}
